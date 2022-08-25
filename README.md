@@ -4,7 +4,7 @@
 
 <img src="Assets/doctor-care-read-me.JPG" alt="Doctor Care">
 
-> Homepage crianda simulando uma empresa de viagens.
+> Homepage criada simulando uma empresa de viagens, neste projeto foi utilizado JavaScript para reatividade, HTML para marcação de texto, Bootstrap para dar estilo.
 <br>
 
 <h4 align="center"><a href="https://caravan-viagens-empresa.netlify.app/">Clique para visitar o projeto</a></h4>
