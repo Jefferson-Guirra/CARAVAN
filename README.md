@@ -19,6 +19,20 @@ O site é composto por três seções:
 
 
 ---
+
+
+## 🚀  Ferramentas usadas:
+
+O projeto visou o aprendizado de Bootstrap:
+
+- HTML;
+- Css;
+- JavaScript;
+- BootStrap;
+
+
+---
+
 <br>
 
 
