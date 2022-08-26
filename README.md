@@ -16,8 +16,6 @@ O site é composto por três seções:
 - **Excursões:** Increva-se para as excursões;
 - **Vantagens:** Nessa seção temos oas vantagens de usar a empresa para viajar;
 - **Perguntas:** Apresenta Perguntas frequentes e suas respequitivas respostas;
-
-
 ---
 
 
@@ -29,8 +27,6 @@ O projeto visou o aprendizado de Bootstrap.
 - Css;
 - JavaScript;
 - BootStrap;
-
-
 ---
 
 <br>
