@@ -29,9 +29,6 @@ O projeto visou o aprendizado de Bootstrap.
 - BootStrap;
 ---
 
-<br>
-
-
 ### Ajustes e melhorias
 
 O projeto foi concluído e todas as tarefas finalizadas:
