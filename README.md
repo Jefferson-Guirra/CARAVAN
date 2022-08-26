@@ -18,8 +18,6 @@ O site é composto por três seções:
 - **Perguntas:** Apresenta Perguntas frequentes e suas respequitivas respostas;
 ---
 
-<br>
-
 ## 🚀  Ferramentas usadas:
 
 O projeto visou o aprendizado de Bootstrap.
@@ -29,7 +27,6 @@ O projeto visou o aprendizado de Bootstrap.
 - JavaScript;
 - BootStrap;
 ---
-<br>
 
 ### Ajustes e melhorias
 
